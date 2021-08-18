@@ -7,12 +7,12 @@ Python 3.5
 Google colab
 
 # Installation:
-You only need a browser to open google so you just click on google colab file and chose to open it on google colab (click on google colab logo in the midlle of the screen)
+Open google colab file in github repo then chose to open it on google colab (click on google colab logo in the midlle of the screen)
 
 # How to use
 How to use?
 
-Input: You have to write any date in the following format dd/mm/yyyy
+Input: Write any date in the following format dd/mm/yyyy
 
 Then run the code by clicking on running button
 
@@ -29,8 +29,11 @@ Detect invalid output
 The following code check if there are any error in input format
 
 try:
+
   valid_date = time.strptime(date, '%d/%m/%Y')
+  
 except ValueError:
+
   print('Invalid date!')
   
   
