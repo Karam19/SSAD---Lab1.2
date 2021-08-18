@@ -3,6 +3,7 @@ This program get the user input as a date and  convert it to the sum of all the 
 
 # Tools
 Python 3.5
+
 Google colab
 
 # Installation:
@@ -10,7 +11,11 @@ You only need a browser to open google so you just click on google colab file an
 
 # Getting started
 How to use?
+
 Input: You have to write any date in the following format dd/mm/yyyy
+
 Then run the code by clicking on running button
+
 Input: 01/01/0011
+
 Output: 24
