@@ -22,9 +22,10 @@ Output: 24
 
 # Features
 Calculate the factorial number
+
 Detect invalid output
 
-# code example
+# Code example
 
 The following code check if there are any error in input format
 
