@@ -19,3 +19,18 @@ Then run the code by clicking on running button
 Input: 01/01/0011
 
 Output: 24
+
+# Features
+Calculate the factorial number
+Detect invalid output
+
+# code example
+
+The following code check if there are any error in input format
+
+try:
+  valid_date = time.strptime(date, '%d/%m/%Y')
+except ValueError:
+  print('Invalid date!')
+  
+  
