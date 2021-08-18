@@ -9,7 +9,7 @@ Google colab
 # Installation:
 You only need a browser to open google so you just click on google colab file and chose to open it on google colab (click on google colab logo in the midlle of the screen)
 
-# Getting started
+# How to use
 How to use?
 
 Input: You have to write any date in the following format dd/mm/yyyy
